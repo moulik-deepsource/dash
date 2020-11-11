@@ -67,7 +67,7 @@
     "url": "https://github.com/bundly/dash/issues"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": ["react-app"]
   },
   "browserslist": [
     ">0.2%",
